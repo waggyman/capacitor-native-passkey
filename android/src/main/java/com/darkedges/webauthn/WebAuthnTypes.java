@@ -1,4 +1,4 @@
-package com.darkedges.webauthn;
+package com.awebr000.webauthn;
 
 public enum WebAuthnTypes {
     WEBAUTHN,WEBAUTHNAUTOFILL;

@@ -1,4 +1,4 @@
-package com.darkedges.webauthn;
+package com.awebr000.webauthn;
 
 import android.util.Log;
 import androidx.credentials.CredentialManager;
