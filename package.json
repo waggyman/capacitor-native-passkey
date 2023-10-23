@@ -1,6 +1,6 @@
 {
   "name": "@awebr000/capacitor-android-passkey",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This plugin gives access to the native passkey apis for android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
